@@ -1,0 +1,6 @@
+Machine Learning project to visualise high dimension data by reducing it into 2 to 3 dimension using technique called t-SNE
+For this i have used amazon data set from kaggle.com
+https://www.kaggle.com/snap/amazon-finefood-reviews/data
+
+Before going through this project I strongly recommend all of you to please read about Natural language processing and also t-SNE from 
+Internet and also go through some of research litrature which are available online about the NLP and t-SNE.
